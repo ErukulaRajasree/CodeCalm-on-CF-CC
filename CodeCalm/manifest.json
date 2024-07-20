@@ -1,0 +1,24 @@
+{
+    "manifest_version": 3,
+    "name": "CodeCalm on CF & CC",
+    "version": "1.0.0",
+    "description": "Boost problem-solving by hiding accuracy and submission metrics on Codeforces and Codechef, creating a focused, distraction-free environment.",
+    "permissions": [
+        "activeTab",
+        "scripting"
+    ],
+    "content_scripts": [
+        {
+            "matches": [
+                "https://www.codechef.com/*",
+                "https://codeforces.com/*"
+            ],
+            "js": ["contentScript.js"],
+            "run_at": "document_idle"
+        }
+    ],
+    "icons": {
+      "128": "icon.png"
+    }
+  }
+  
