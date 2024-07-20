@@ -1,8 +1,8 @@
-**CodeCalm on Codeforces & Codechef**
+******CodeCalm on Codeforces & Codechef******
 
 **CodeCalm** is a browser extension designed to enhance your problem-solving experience on competitive programming platforms by removing distractions. It hides the difficulty, accepted solutions count and accuracy of unsolved problems on Codeforces and CodeChef, creating a focused, distraction-free coding environment..
 
-**Features**
+****Features:****
 
 **Codeforces Contests:** Hides accepted solutions count of unsolved problems.
 
@@ -13,43 +13,43 @@
 **CodeChef Practice:** Hides difficulty of unsolved problems.
 
 
-**Codeforces Contests:**
+****Codeforces Contests:****
 
-**Before**
+**Before:**
 ![Screenshot (166)](https://github.com/user-attachments/assets/ab919b49-dd07-40eb-ae42-ee1b3672dcd4)
 
-**After**
+**After:**
 ![Screenshot (171)](https://github.com/user-attachments/assets/95553ec7-0a76-4651-a5d6-ee4c171b5f3f)
 
 
-**Codeforces Practice:**
+****Codeforces Practice:****
 
-**Before**
+**Before:**
 ![Screenshot (167)](https://github.com/user-attachments/assets/fb32b348-a08a-40a6-bb6c-d4379de6636c)
 
-**After**
+**After:**
 ![Screenshot (170)](https://github.com/user-attachments/assets/32e24d0e-b33d-43a2-8b4d-4ac04e36cfc8)
 
 
-**Codechef Contests:**
+****Codechef Contests:****
 
-**Before**
+**Before:**
 ![Screenshot (168)](https://github.com/user-attachments/assets/f70833b9-2a8f-45c4-9526-4f597b9930c7)
 
-**After**
+**After:**
 ![Screenshot (174)](https://github.com/user-attachments/assets/a3140739-dd50-4ac0-9a75-f772fe6ddfb6)
 
 
-**Codechef Practce:**
+****Codechef Practce:****
 
-**Before**
+**Before:**
 ![Screenshot (177)](https://github.com/user-attachments/assets/fd06078a-030e-4875-b50c-2955dc4fa151)
 
-**After**
+**After:**
 ![Screenshot (178)](https://github.com/user-attachments/assets/15dfaf91-c3da-44ed-a5c1-40a7e42b3ab2)
 
 
-**Installation:**
+****Installation:****
 
 To use this extension locally, follow these steps:
 
