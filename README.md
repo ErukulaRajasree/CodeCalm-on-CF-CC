@@ -1,6 +1,6 @@
 ******CodeCalm on Codeforces & Codechef******
 
-**CodeCalm** is a browser extension designed to enhance your problem-solving experience on competitive programming platforms by removing distractions. It hides the difficulty, accepted solutions count and accuracy of unsolved problems on Codeforces and CodeChef, creating a focused, distraction-free coding environment..
+**CodeCalm** is a browser extension designed to enhance your problem-solving efficiency on competitive programming platforms by removing distractions. It hides the difficulty, accepted solutions count and accuracy of unsolved problems on Codeforces and CodeChef, creating a focused, distraction-free coding environment..
 
 ****Features:****
 
