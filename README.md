@@ -12,6 +12,7 @@
 
 **CodeChef Practice:** Hides difficulty of unsolved problems.
 
+-----------------------------------------------------------------------------------------------
 
 ****Codeforces Contests:****
 
@@ -31,6 +32,7 @@
 ![Screenshot (170)](https://github.com/user-attachments/assets/32e24d0e-b33d-43a2-8b4d-4ac04e36cfc8)
 
 
+
 ****Codechef Contests:****
 
 **Before:**
@@ -47,6 +49,7 @@
 
 **After:**
 ![Screenshot (178)](https://github.com/user-attachments/assets/15dfaf91-c3da-44ed-a5c1-40a7e42b3ab2)
+
 
 
 ****Installation:****
