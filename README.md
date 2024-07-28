@@ -1,8 +1,8 @@
-******CodeCalm on Codeforces & Codechef******
+# CodeCalm on Codeforces & Codechef
 
 **CodeCalm** is a browser extension designed to enhance your problem-solving efficiency on competitive programming platforms by removing distractions. It hides the difficulty, accepted solutions count and accuracy of unsolved problems on Codeforces and CodeChef, creating a focused, distraction-free coding environment..
 
-****Features:****
+## Features:
 
 **Codeforces Contests:** Hides accepted solutions count of unsolved problems.
 
@@ -14,7 +14,7 @@
 
 -----------------------------------------------------------------------------------------------
 
-****Codeforces Contests:****
+## Codeforces Contests:
 
 **Before:**
 ![Screenshot (166)](https://github.com/user-attachments/assets/ab919b49-dd07-40eb-ae42-ee1b3672dcd4)
@@ -23,7 +23,7 @@
 ![Screenshot (171)](https://github.com/user-attachments/assets/95553ec7-0a76-4651-a5d6-ee4c171b5f3f)
 
 
-****Codeforces Practice:****
+## Codeforces Practice:
 
 **Before:**
 ![Screenshot (167)](https://github.com/user-attachments/assets/fb32b348-a08a-40a6-bb6c-d4379de6636c)
@@ -33,7 +33,7 @@
 
 
 
-****Codechef Contests:****
+## Codechef Contests:
 
 **Before:**
 ![Screenshot (168)](https://github.com/user-attachments/assets/f70833b9-2a8f-45c4-9526-4f597b9930c7)
@@ -42,7 +42,7 @@
 ![Screenshot (174)](https://github.com/user-attachments/assets/a3140739-dd50-4ac0-9a75-f772fe6ddfb6)
 
 
-****Codechef Practce:****
+## Codechef Practce:
 
 **Before:**
 ![Screenshot (177)](https://github.com/user-attachments/assets/fd06078a-030e-4875-b50c-2955dc4fa151)
@@ -52,7 +52,7 @@
 
 
 
-****Installation:****
+## Installation:
 
 To use this extension locally, follow these steps:
 
@@ -67,11 +67,11 @@ cd CodeCalm
 
 **Load the Extension in Chrome:**
 
-Open Chrome and go to chrome://extensions/
+- Open Chrome and go to chrome://extensions/
 
-Enable "Developer mode" using the toggle on the top right.
+- Enable "Developer mode" using the toggle on the top right.
 
-Click "Load unpacked" and select the directory where you cloned the repository.
+- Click "Load unpacked" and select the directory where you cloned the repository.
 
 
 
